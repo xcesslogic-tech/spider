@@ -1,10 +1,10 @@
-Big chungus is a moderation bot with the aim of being efficient and easy to setup.
+Spider is a moderation bot with the aim of being efficient and easy to setup.
 
 ## Features
-* [Raid and nuke protection](https://github.com/duckie451/big-chungus#raid-and-nuke-protection) - Protect your server with automated anti-nuke/raid systems or manual commands.
-* [Fast auto-moderation](https://github.com/duckie451/big-chungus#fast-auto-moderation) - Automatically delete spam, nsfw messages, links, and discord invites.
-* [Highly configurable strike system](https://github.com/duckie451/big-chungus#highly-configurable-strike-system) - Configure custom punishments for members that trigger on `x` amount of strikes.
-* [The best basic moderation commands](https://github.com/duckie451/big-chungus#basic-moderation) - Basic moderation commands with heirarchy-based moderation.
+* [Raid and nuke protection](https://github.com/xcesslogic-tech/spider#raid-and-nuke-protection) - Protect your server with automated anti-nuke/raid systems or manual commands.
+* [Fast auto-moderation](https://github.com/xcesslogic-tech/spider#fast-auto-moderation) - Automatically delete spam, nsfw messages, links, and discord invites.
+* [Highly configurable strike system](https://github.com/xcesslogic-tech/spider#highly-configurable-strike-system) - Configure custom punishments for members that trigger on `x` amount of strikes.
+* [The best basic moderation commands](https://github.com/xcesslogic-tech/spider#basic-moderation) - Basic moderation commands with heirarchy-based moderation.
 
 ### Raid and nuke protection
 * Webhooks cannot be created, and will be deleted by the bot immediately (unless unsafe mode is enabled).
@@ -23,7 +23,7 @@ Strikes are essentially warnings, and people with the `MANAGE_MEMBERS` permissio
 You can configure actions to be performed when a user reaches a certain amount of strikes, currently supported actions are: `timeout`, `kick` and `ban`
 
 ### Basic Moderation
-Big Chungus has a system of hierarchy based moderation, which allows members of higher position to moderate members of (relatively) lower position, even though both members are moderators. The basic moderation commands available in the bot are: `ban`, `unban`, `kick`, `timeout`, `strike`, `strikes` and `relax`.
+Spider has a system of hierarchy based moderation, which allows members of higher position to moderate members of (relatively) lower position, even though both members are moderators. The basic moderation commands available in the bot are: `ban`, `unban`, `kick`, `timeout`, `strike`, `strikes` and `relax`.
 > _Moderators_ are people who can run moderation commands in a server.
 
 ## Using the Code
