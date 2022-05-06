@@ -1,5 +1,4 @@
 Big chungus is a moderation bot with the aim of being efficient and easy to setup.
-> The entire bot can be configured through the [website](NOT_IMPLEMENTED).
 
 ## Features
 * [Raid and nuke protection](https://github.com/duckie451/big-chungus#raid-and-nuke-protection) - Protect your server with automated anti-nuke/raid systems or manual commands.
@@ -42,7 +41,3 @@ cd path/to/big-chungus
 ./run.sh all
 ```
 > Use `./run.sh all` if you want to compile and deploy commands before running, `./run.sh compile` if you only want to compile, `./run.sh deploy` if you only want to deploy, and `./ run.sh` if you only want to run.
-
-## Resources and Links
-* [Website](NOT_IMPLEMENTED) - Configure the bot here
-* [Documentations](NOT_IMPLEMENTED) - All commands in the bot are properly documented here.
